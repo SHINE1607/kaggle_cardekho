@@ -22,7 +22,7 @@ The kaggle competiton is to predict the car price using the set of features prov
 ## Model used 
 
 From the correlation heat map and scatter plot we can see that the variables have strong correlation
-with the target variable and the non-linearity in the model is substantially more.
+with the target variable and the non-linearity in the model is substantially less.
 therefore I used Random forest regressor and tuned using RandomizedSearchCV and bet parameters turned out 
 to be :
 {'n_estimators': 700,
