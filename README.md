@@ -34,7 +34,7 @@ to be :
 ## Prediction distplot
 
 Distplot of predicted_value - actual_value
-![alt text](https://github.com/SHINE1607/kaggle_cardekho/blob/master/images/prediction.png)
+![alt text](https://github.com/SHINE1607/kaggle_cardekho/blob/master/images/prediction .png)
 We can see that distribution has a peak at 0, showing a good prediction in values
 
 ## Evaluation
